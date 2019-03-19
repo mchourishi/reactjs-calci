@@ -1,0 +1,1263 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Panel should render correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <ButtonPanel
+    clickHandler={[MockFunction]}
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="input-keys"
+        >
+          <div
+            className="function-keys"
+          >
+            <Button
+              clickHandler={[Function]}
+              name="AC"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="⌫"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="+/-"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="√"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="x²"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="%"
+            />
+          </div>
+          <div
+            className="digit-keys"
+          >
+            <Button
+              clickHandler={[Function]}
+              cls="key-0"
+              name="0"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="."
+            />
+            <Button
+              clickHandler={[Function]}
+              name="1"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="2"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="3"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="4"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="5"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="6"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="7"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="8"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="9"
+            />
+          </div>
+        </div>,
+        <div
+          className="operator-keys"
+        >
+          <Button
+            clickHandler={[Function]}
+            name="/"
+          />
+          <Button
+            clickHandler={[Function]}
+            name="*"
+          />
+          <Button
+            clickHandler={[Function]}
+            name="-"
+          />
+          <Button
+            clickHandler={[Function]}
+            name="+"
+          />
+          <Button
+            clickHandler={[Function]}
+            cls="equalkey"
+            name="="
+          />
+        </div>,
+      ],
+      "className": "calculator-keypad",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <div
+              className="function-keys"
+            >
+              <Button
+                clickHandler={[Function]}
+                name="AC"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="⌫"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="+/-"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="√"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="x²"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="%"
+              />
+            </div>,
+            <div
+              className="digit-keys"
+            >
+              <Button
+                clickHandler={[Function]}
+                cls="key-0"
+                name="0"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="."
+              />
+              <Button
+                clickHandler={[Function]}
+                name="1"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="2"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="3"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="4"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="5"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="6"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="7"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="8"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="9"
+              />
+            </div>,
+          ],
+          "className": "input-keys",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <Button
+                  clickHandler={[Function]}
+                  name="AC"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="⌫"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="+/-"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="√"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="x²"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="%"
+                />,
+              ],
+              "className": "function-keys",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "AC",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "⌫",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "+/-",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "√",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "x²",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "%",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <Button
+                  clickHandler={[Function]}
+                  cls="key-0"
+                  name="0"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="."
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="1"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="2"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="3"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="4"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="5"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="6"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="7"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="8"
+                />,
+                <Button
+                  clickHandler={[Function]}
+                  name="9"
+                />,
+              ],
+              "className": "digit-keys",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "cls": "key-0",
+                  "name": "0",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": ".",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "1",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "2",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "3",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "4",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "5",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "6",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "7",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "8",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "clickHandler": [Function],
+                  "name": "9",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+            ],
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <Button
+              clickHandler={[Function]}
+              name="/"
+            />,
+            <Button
+              clickHandler={[Function]}
+              name="*"
+            />,
+            <Button
+              clickHandler={[Function]}
+              name="-"
+            />,
+            <Button
+              clickHandler={[Function]}
+              name="+"
+            />,
+            <Button
+              clickHandler={[Function]}
+              cls="equalkey"
+              name="="
+            />,
+          ],
+          "className": "operator-keys",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "clickHandler": [Function],
+              "name": "/",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "clickHandler": [Function],
+              "name": "*",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "clickHandler": [Function],
+              "name": "-",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "clickHandler": [Function],
+              "name": "+",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "clickHandler": [Function],
+              "cls": "equalkey",
+              "name": "=",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+        ],
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="input-keys"
+          >
+            <div
+              className="function-keys"
+            >
+              <Button
+                clickHandler={[Function]}
+                name="AC"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="⌫"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="+/-"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="√"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="x²"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="%"
+              />
+            </div>
+            <div
+              className="digit-keys"
+            >
+              <Button
+                clickHandler={[Function]}
+                cls="key-0"
+                name="0"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="."
+              />
+              <Button
+                clickHandler={[Function]}
+                name="1"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="2"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="3"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="4"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="5"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="6"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="7"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="8"
+              />
+              <Button
+                clickHandler={[Function]}
+                name="9"
+              />
+            </div>
+          </div>,
+          <div
+            className="operator-keys"
+          >
+            <Button
+              clickHandler={[Function]}
+              name="/"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="*"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="-"
+            />
+            <Button
+              clickHandler={[Function]}
+              name="+"
+            />
+            <Button
+              clickHandler={[Function]}
+              cls="equalkey"
+              name="="
+            />
+          </div>,
+        ],
+        "className": "calculator-keypad",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <div
+                className="function-keys"
+              >
+                <Button
+                  clickHandler={[Function]}
+                  name="AC"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="⌫"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="+/-"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="√"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="x²"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="%"
+                />
+              </div>,
+              <div
+                className="digit-keys"
+              >
+                <Button
+                  clickHandler={[Function]}
+                  cls="key-0"
+                  name="0"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="."
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="1"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="2"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="3"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="4"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="5"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="6"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="7"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="8"
+                />
+                <Button
+                  clickHandler={[Function]}
+                  name="9"
+                />
+              </div>,
+            ],
+            "className": "input-keys",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <Button
+                    clickHandler={[Function]}
+                    name="AC"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="⌫"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="+/-"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="√"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="x²"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="%"
+                  />,
+                ],
+                "className": "function-keys",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "AC",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "⌫",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "+/-",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "√",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "x²",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "%",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <Button
+                    clickHandler={[Function]}
+                    cls="key-0"
+                    name="0"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="."
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="1"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="2"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="3"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="4"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="5"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="6"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="7"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="8"
+                  />,
+                  <Button
+                    clickHandler={[Function]}
+                    name="9"
+                  />,
+                ],
+                "className": "digit-keys",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "cls": "key-0",
+                    "name": "0",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": ".",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "1",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "2",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "3",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "4",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "5",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "6",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "7",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "8",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "clickHandler": [Function],
+                    "name": "9",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <Button
+                clickHandler={[Function]}
+                name="/"
+              />,
+              <Button
+                clickHandler={[Function]}
+                name="*"
+              />,
+              <Button
+                clickHandler={[Function]}
+                name="-"
+              />,
+              <Button
+                clickHandler={[Function]}
+                name="+"
+              />,
+              <Button
+                clickHandler={[Function]}
+                cls="equalkey"
+                name="="
+              />,
+            ],
+            "className": "operator-keys",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "clickHandler": [Function],
+                "name": "/",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "clickHandler": [Function],
+                "name": "*",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "clickHandler": [Function],
+                "name": "-",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "clickHandler": [Function],
+                "name": "+",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "clickHandler": [Function],
+                "cls": "equalkey",
+                "name": "=",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+  Symbol(enzyme.__childContext__): null,
+}
+`;
