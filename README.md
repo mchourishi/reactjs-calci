@@ -25,10 +25,8 @@ $ npm test # or yarn test
 
 ## Steps
 
-1. npm start will load the Calculator App in your browser.
+1. npm start will load the Calculator App.
 2. Simply try to perform operations.
-
-<img src="https://github.com/mchourishi/reactjs-calci/blob/master/public/images/calculator-screenshot.png" />
 
 ## Analysis/Decisions
 
@@ -40,3 +38,7 @@ The code is also have been divided into 4 different components
 4. App.js - The main component which renders the above 3 components.
 
 I took the css from https://codepen.io/mjijackson/pen/xOzyGX and have modified it.
+
+## Screenshot
+
+<img src="https://github.com/mchourishi/reactjs-calci/blob/master/public/images/calculator-screenshot.png" />
