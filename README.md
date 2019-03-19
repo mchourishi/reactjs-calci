@@ -28,7 +28,7 @@ $ npm test # or yarn test
 1. npm start will load the Calculator App in your browser.
 2. Simply try to perform operations.
 
-<img src="https://github.com/mchourishi/reactjs-calci/blob/master/public/images/calculator.png" />
+<img src="https://github.com/mchourishi/reactjs-calci/blob/master/public/images/calculator-screenshot.png" />
 
 ## Analysis/Decisions
 
@@ -38,3 +38,5 @@ The code is also have been divided into 4 different components
 2. ButtonPanel.js - The Keypad panel
 3. Button.js - Different buttons on a keypad.
 4. App.js - The main component which renders the above 3 components.
+
+I took the css from https://codepen.io/mjijackson/pen/xOzyGX and have modified it.
